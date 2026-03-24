@@ -43,6 +43,12 @@ Below is a curated list of awesome digital tools for activism. These are tools f
  * [CiviWiki](https://civi.wiki/) - An open-source, non-profit community, working to develop a democratic engagement web system.
  * [NGP VAN](https://www.ngpvan.com/) - Democratic Campaign Software.
  * [Mobilize.us](https://www.mobilize.us/) - Volunteer Opportunities, Events, and Petitions Near Me.
+ * [Propeller.la](https://propeller.la/) - Do Good Stuff. Earn Points. Get Rewarded.
+ * [CallHub.io](https://callhub.io/) - A Unified Campaigning Tool to Drive Real Change.
+ * [Hustle](https://hustle.com/) - Peer to peer text marketing platform.
+ * [GetThru.io](https://www.getthru.io/) - Blazing Fast P2P Texting and Calling Tools.
+ * [Volgistics](https://www.volgistics.com/) - Volunteer Management Software Solutions.
+ * [Sign Up Genius](https://www.signupgenius.com/) - Free Online Sign Up Forms.
  
 ## Operating Systems:
 
